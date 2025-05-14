@@ -40,11 +40,59 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+## 🌟 Featured Projects
+
+- 🔹 [**RentEase**](https://github.com/Krup1205/RentEase):  
+  Android app developed using Java and XML to simplify the house rental process with location-based filtering, property listings, and a user-friendly interface.
+
+- 🔹 [**Kheti Bazaar**](https://github.com/Krup1205/Khetibazar):  
+  Marketplace app connecting farmers directly to buyers, ensuring fair pricing and eliminating middlemen. Built with Firebase integration for real-time data handling.
+
+- 🔹 [**Portfolio Website**](https://portfolio-01-kappa.vercel.app/):  
+  Personal portfolio website created using HTML, CSS, and JavaScript. Features responsive design, smooth navigation, and contact functionality.
+
 ---
 
-### 📌 Featured Projects
+## 🎓 Education
 
-```text
-🔹 RentEase - An Android app for streamlined house renting with login, listings & location filtering [Java, Firebase]  
-🔹 Kheti Bazaar - A smart agricultural marketplace for farmers and buyers [Java, Firebase]  
-🔹 Portfolio Website - Personal responsive portfolio using HTML, CSS, JavaScript  
+- **Parul University**, Vadodara, Gujarat  
+  *Bachelor of Technology (Computer Engineering)*  
+  *2022 – 2026*
+
+- **Shree Vashistha Vidyalaya**, Surat, Gujarat  
+  *High School – 2021 – 2022*
+
+---
+
+## 📜 Certifications
+
+- **Mobile App Development using Android Programming**  
+  *Dec 2023 – Mar 2024*
+
+- **Web Designing**  
+  *Dec 2023 – Mar 2024*
+
+- **Languages Known**: Gujarati, English, Hindi
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krup1205&theme=radical" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krup1205&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krup1205&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 **Email**: kruppatel388@gmail.com  
+- 🌐 [**Portfolio**](https://portfolio-01-kappa.vercel.app)  
+- 💼 [**LinkedIn**](http://www.linkedin.com/in/kruppatel012)  
+
+
