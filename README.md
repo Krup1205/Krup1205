@@ -11,7 +11,7 @@
   <a href="http://www.linkedin.com/in/kruppatel012">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-01-kappa.vercel.app/">
+  <a href="https://www.kruppatel.tech/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
