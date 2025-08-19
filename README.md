@@ -66,17 +66,13 @@
 
 ## 📜 Certifications
 
-- **Data Science**
-  *April 2025 - June 2025*
+- **Data Science** *April 2025 - June 2025*
 
-- **Mobile App Development using Android Programming**  
-  *Dec 2023 – Mar 2024*
+- **Mobile App Development using Android Programming** *Dec 2023 – Mar 2024*
 
-- **Web Designing**  
-  *Dec 2023 – Mar 2024*
+- **Web Designing** *Dec 2023 – Mar 2024*
 
 - **Languages Known**: Gujarati, English, Hindi
-
 ---
 
 ### 🔥 GitHub Stats
