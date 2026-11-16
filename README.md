@@ -1,18 +1,19 @@
-<h1 align="center">Hey there, I'm Krupkumar S. Patel 👋</h1>
-<h3 align="center">Aspiring Data Scientist | ML Engineer | Backend & API Developer</h3>
+# Hey there, I'm Krupkumar S. Patel 👋
+
+### Aspiring Data Analyst | Data Engineering Enthusiast | Python & SQL Developer
 
 <p align="center">
   <a href="mailto:kruppatel388@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kruppatel388@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Krup1205">
     <img src="https://img.shields.io/github/followers/Krup1205?label=Follow&style=for-the-badge" />
   </a>
-  <a href="http://www.linkedin.com/in/kruppatel012">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kruppatel012">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.kruppatel.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-%23000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
@@ -20,127 +21,82 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Aspiring Data Scientist with strong foundation in Machine Learning & Data Analysis  
-- 📊 Skilled in building predictive models and extracting actionable insights from data  
-- ⚙️ Experienced in developing and deploying ML models using FastAPI & REST APIs  
-- 🔄 Currently working on real-time data systems & algorithmic trading projects  
-- 💡 Passionate about solving real-world problems using data-driven approaches  
-- 📫 Reach me at: kruppatel388@gmail.com  
+- 🎓 B.Tech Information Technology graduate (2026).
+- 📊 Interested in Data Analytics, Data Engineering, and Business Intelligence.
+- 🐍 Experienced in Python, SQL, Pandas, and NumPy for data processing and analysis.
+- 🔄 Hands-on experience building ETL pipelines, data integration, cleansing, and validation workflows.
+- 📈 Skilled in developing interactive Power BI dashboards using DAX and data modelling.
+- 💡 Passionate about transforming raw data into meaningful insights and solving real-world problems.
+- 📫 Reach me at: **kruppatel388@gmail.com**
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Technical Skills
 
 #### 💻 Programming & Databases
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-#### 📊 Data Science & Machine Learning
+#### 📊 Data Analytics & Engineering
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-00897B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Validation-455A64?style=for-the-badge" />
 </p>
 
-#### ⚙️ Backend & Deployment
+#### 📈 Business Intelligence & Visualization
+
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Uvicorn-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-#### 🛠️ Tools & Concepts
+#### 🛠️ Tools & Platforms
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 House Price Prediction API  
-- Built a machine learning-powered REST API using FastAPI  
-- Implemented preprocessing, feature engineering, and model training  
-- Enabled real-time predictions with Swagger UI documentation  
-- **Tech:** Python, FastAPI, Scikit-learn, Pandas, NumPy  
+### 🔹 Sales and Operations ETL Pipeline
+**Python | SQL | Pandas | Data Integration**
+
+- Developed an end-to-end ETL pipeline to extract, cleanse, and integrate data from multiple sources.
+- Transformed raw datasets into structured, analysis-ready database tables.
+- Implemented data validation and quality checks to identify missing, duplicate, and inconsistent records.
+- Improved data reliability and reproducibility for downstream reporting and analytics.
+
+### 🔹 Cartify – Business Performance Dashboard
+**Power BI | DAX | SQL | Data Modelling | Excel**
+
+- Designed an interactive Power BI dashboard to monitor business performance and operational KPIs.
+- Developed DAX measures to track net sales, profit margins, return rates, discount impact, and delivery efficiency.
+- Analysed business performance using sales data worth **$13.29M** and a **22.09% profit margin**.
+- Identified underperforming product categories, regional return-rate disparities, and delivery efficiency gaps.
+- Presented actionable insights to support data-driven business decisions.
 
 ---
 
-### 🔹 Algorithmic Trading System  
-- Developing an automated trading system using real-time market data  
-- Integrated APIs & WebSockets for low-latency processing  
-- Applying ML models for price prediction and strategy optimization  
-- **Tech:** Python, APIs, WebSockets, Machine Learning  
+## 💼 Professional Experience
 
----
+**Data Science Intern | Maxgen Technologies Pvt. Ltd.**
 
-### 🔹 Project Samarth – Agricultural QA System  
-- Developed NLP-based query system for agricultural datasets  
-- Provided insights on crop trends and rainfall patterns  
-- Improved accessibility of data for farmers and analysts  
-- **Tech:** Python, Flask, SQLite, Pandas, NLP  
+📅 January 2026 – April 2026  
+📍 Ahmedabad, Gujarat, India
 
----
-
-## 💼 Experience
-
-**Data Science Intern – Maxgen Technologies Pvt. Ltd.**  
-📅 Jan 2026 – Present  
-
-- Working on real-world datasets for data analysis & ML model building  
-- Performing data preprocessing, EDA, and feature engineering  
-- Gaining hands-on experience with end-to-end ML workflows  
-
----
-
-## 🎓 Education
-
-**Parul Institute of Engineering and Technology (PIET)**  
-🎓 B.Tech in Information Technology (2022 – 2026)  
-📊 CGPA: 7.09  
-
----
-
-## 📜 Certifications
-
-- Data Analyst – Udemy (2025)  
-- Data Analytics Job Simulation – Deloitte (2025)  
-- Mobile App Development – Android (2024)  
-- Vadodara Hackathon 5.0 – Participation  
-
----
-
-## 🌍 Languages
-
-Gujarati | English | Hindi  
-
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krup1205&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krup1205&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krup1205&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-- 📧 Email: kruppatel388@gmail.com  
-- 🌐 Portfolio: https://www.kruppatel.tech  
-- 💼 LinkedIn: http://www.linkedin.com/in/kruppatel012  
-
+- Developed Python and SQL scripts to extract, clean, and validate structured and unstructured datasets.
+- Built SQL-based ETL pipelines to integrate and deliver clean, structured data
